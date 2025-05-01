@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=superhot
+Description=display superhot loading screen
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/superhot
+ScriptFile=/usr/share/plymouth/themes/superhot/superhot.script
